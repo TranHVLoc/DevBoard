@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented required features:  
 Note: If you cannot see the .gif directory that README is rendering, then there could be a chance when the .gif file is too large and only viewable via copying the link from raw code and paste it in a new tab. Please do so if you see that problem :(
 
 <img src='https://i.imgur.com/vNabNgH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
