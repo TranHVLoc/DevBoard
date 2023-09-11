@@ -1,26 +1,17 @@
-# Web Development Project 1 - *DevBoard*
+# Web Development Project - *DevBoard*
 
-Submitted by: **Loc Trane**
+By: **Loc Tran**
 
 This web app: **A Community Board which includes good posts about dev world**
 
-Time spent: **5** hours spent in total
-
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionalities included:
 
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
+- [x] There is a unique theme for events or resources relevant to a specific community
+- [x] At least 10 unique resources or events are displayed in a responsive card format
 - [x] Buttons or links to a related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
